@@ -23,7 +23,7 @@ Meta data URL API extracts the meta data from the input URL. We can only send on
 
 ### How to use it?
 - After getting the files, open and **cd** towards this project folder in any command CLI like BASH CLI.
-- Here, type <br> node server.js <br> (Make sure that NodeJS is already installed)
+- Here, type <br>``` node server.js ``` <br> (Make sure that NodeJS is already installed)
 - You will see the following message appears: <br> "Ser"
 
 Port:4000
