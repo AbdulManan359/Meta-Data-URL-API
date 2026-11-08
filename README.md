@@ -39,5 +39,5 @@ node server.js
 http://localhost:4000/meta_data?url=[inputURL]
 ```
 <br>
-Here, in [inputURL] write the URL of the website to get its meta data.
+Here, in [inputURL] write the URL of the website to get its meta data. <br>
 - Thus, you will get the results as a JSON
